@@ -1,0 +1,9 @@
+albumentations==1.0.3
+cv2==4.5.3.56
+skimage==0.18.3
+numpy==1.26.4
+Pillow==8.3.2
+scipy==1.12.0
+scikit-image==0.22.0
+
+
